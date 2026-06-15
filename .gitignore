@@ -1,1 +1,7 @@
 saved_master_model/
+
+# All training checkpoint directories
+results_pct_*/
+results_aug_pct_*/
+results*/
+
